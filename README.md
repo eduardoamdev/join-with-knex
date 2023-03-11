@@ -1,5 +1,7 @@
 # Join with Knex
 
+<img src="./images/knex-logo.png" alt="knex logo" />
+
 ## Descripción
 
 Es esta práctica vamos a aprender cómo se hace un join con Knex y, para ello vamos a hacerlo sobre una base de datos PostgreSQL.
