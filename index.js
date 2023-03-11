@@ -13,7 +13,7 @@ const obtenerPremiados = async () => {
 const init = async () => {
   const premiados = await obtenerPremiados();
 
-  console.log(`Los premiados que se encuentran ya verificados son:`);
+  console.log("Los premiados que se encuentran ya verificados son:");
 
   premiados.forEach((premiado) => {
     console.log(premiado.nombre);
