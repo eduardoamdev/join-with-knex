@@ -2,7 +2,11 @@
 
 ## Descripción
 
-Es esta práctica vamos a aprender cómo se hace un join con knex y, para ello vamos a hacerlo sobre una base de datos PostgreSQL.
+Es esta práctica vamos a aprender cómo se hace un join con Knex y, para ello vamos a hacerlo sobre una base de datos PostgreSQL.
+
+## Qué es Knex
+
+Knex.js es un constructor de consultas SQL para JavaScript que te permite crear y ejecutar consultas estándar SQL para varios sistemas de gestión de bases de datos, como PostgreSQL, MySQL, SQLite3, Oracle, etc . Knex.js te ofrece una interfaz fluida y sencilla para construir las consultas usando métodos encadenados, sin tener que escribir el SQL a mano. Además, Knex.js te permite crear y modificar el esquema de la base de datos, gestionar las migraciones y las semillas, y trabajar con promesas y callbacks.
 
 ## Contexto
 
